@@ -7,10 +7,10 @@ public class UsingVariablesScript : MonoBehaviour {
     public int SpeedMultiplier = 2;
 
     // Store if the cube is greater than zero
-    bool PositionGreaterThanZero;
+    private bool PositionGreaterThanZero;
 
     // When cube hits negative 2 on x 
-    bool AddingOnX;
+    private bool AddingOnX;
 
 	// Use this for initialization
 	void Start () {
