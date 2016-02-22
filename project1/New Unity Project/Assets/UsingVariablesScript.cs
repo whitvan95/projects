@@ -4,9 +4,13 @@ using System.Collections;
 public class UsingVariablesScript : MonoBehaviour {
     // This variable is used to set the starting position of the cube
     public int StartingPosition = 5;
+    public int SpeedMultiplier = 2;
 
-    //Store if the cube is greater than zero
+    // Store if the cube is greater than zero
     bool PositionGreaterThanZero;
+
+    // When cube hits negative 2 on x 
+    bool AddingOnX;
 
 	// Use this for initialization
 	void Start () {
@@ -33,13 +37,14 @@ public class UsingVariablesScript : MonoBehaviour {
             Vector3 Position = transform.position;
 
             // Use the change in time to drop the cube 
-            Position.y -= Time.deltaTime;
+            Position.y -= Time.deltaTime * SpeedMultiplier;
 
             // If it's below zero make it equal to zero
             if (Position.y < 0)
             {
                 Position.y = 0;
                 PositionGreaterThanZero = false;
+                AddingOnX = false;
             }
 
             transform.position = Position;
@@ -49,15 +54,30 @@ public class UsingVariablesScript : MonoBehaviour {
         {
             Vector3 Position = transform.position;
 
-            // Use the change in time to drop the cube 
-            Position.x -= Time.deltaTime;
-
-            // If it's below zero make it equal to zero
-            if (Position.x < -2)
+            if (!AddingOnX)
             {
-                Position.x = -2;
+
+                // Use the change in time to drop the cube 
+                Position.x -= Time.deltaTime * SpeedMultiplier;
+
+                // If it's below zero make it equal to zero
+                if (Position.x < -2)
+                {
+                    Position.x = -2;
+                    AddingOnX = true;
+                }
             }
 
+            else
+            {
+                Position.x += Time.deltaTime * SpeedMultiplier;
+
+                if (Position.x > 2)
+                {
+                    Position.x = 2;
+                    AddingOnX = false;
+                }
+            }
             transform.position = Position;
         }
     }
