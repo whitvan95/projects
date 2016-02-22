@@ -21,7 +21,21 @@ public class UsingVariablesScript : MonoBehaviour {
 
         PositionGreaterThanZero = true;
 
-	}
+        // For Loop Example
+        for (int i = 0; i < 5; i++)
+        {
+            Debug.Log("for loop#" + i);
+        }
+
+        // While loop example
+        int j = 0; 
+        while (j < 5)
+        {
+            Debug.Log("while loop#" + j);
+            j++;
+        }
+
+    }
 	
 	// Update is called once per frame
 	void Update () {
