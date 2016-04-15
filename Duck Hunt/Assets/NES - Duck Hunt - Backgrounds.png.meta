@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 61213a91dccecce4b9c2ccb633a34da9
+timeCreated: 1460519982
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Duck Hunt - Backgrounds_0
+    21300002: NES - Duck Hunt - Backgrounds_1
+    21300004: NES - Duck Hunt - Backgrounds_2
+    21300006: NES - Duck Hunt - Backgrounds_3
+    21300008: NES - Duck Hunt - Backgrounds_4
+    21300010: NES - Duck Hunt - Backgrounds_5
+    21300012: NES - Duck Hunt - Backgrounds_6
+    21300014: NES - Duck Hunt - Backgrounds_7
+    21300016: NES - Duck Hunt - Backgrounds_8
+    21300018: NES - Duck Hunt - Backgrounds_9
+    21300020: NES - Duck Hunt - Backgrounds_10
+    21300022: NES - Duck Hunt - Backgrounds_11
+    21300024: NES - Duck Hunt - Backgrounds_12
+    21300026: NES - Duck Hunt - Backgrounds_13
+    21300028: NES - Duck Hunt - Backgrounds_14
+    21300030: NES - Duck Hunt - Backgrounds_15
+    21300032: NES - Duck Hunt - Backgrounds_16
+    21300034: NES - Duck Hunt - Backgrounds_17
+    21300036: NES - Duck Hunt - Backgrounds_18
+    21300038: NES - Duck Hunt - Backgrounds_19
+    21300040: NES - Duck Hunt - Backgrounds_20
+    21300042: NES - Duck Hunt - Backgrounds_21
+    21300044: NES - Duck Hunt - Backgrounds_22
+    21300046: NES - Duck Hunt - Backgrounds_23
+    21300048: NES - Duck Hunt - Backgrounds_24
+    21300050: NES - Duck Hunt - Backgrounds_25
+    21300052: NES - Duck Hunt - Backgrounds_26
+    21300054: NES - Duck Hunt - Backgrounds_27
+    21300056: NES - Duck Hunt - Backgrounds_28
+    21300058: NES - Duck Hunt - Backgrounds_29
+    21300060: NES - Duck Hunt - Backgrounds_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NES - Duck Hunt - Backgrounds_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 256
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 75.5}
+        - {x: -128, y: -75.5}
+        - {x: 128, y: -75.5}
+        - {x: 128, y: 75.5}
+    - name: NES - Duck Hunt - Backgrounds_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 361
+        width: 256
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 75.5}
+        - {x: -128, y: -75.5}
+        - {x: 128, y: -75.5}
+        - {x: 128, y: 75.5}
+    - name: NES - Duck Hunt - Backgrounds_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 361
+        width: 256
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 75.5}
+        - {x: -128, y: -75.5}
+        - {x: 128, y: -75.5}
+        - {x: 128, y: 75.5}
+    - name: NES - Duck Hunt - Backgrounds_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 256
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 75.5}
+        - {x: -128, y: -75.5}
+        - {x: 128, y: -75.5}
+        - {x: 128, y: 75.5}
+    - name: NES - Duck Hunt - Backgrounds_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 105
+        width: 256
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 75.5}
+        - {x: -128, y: -75.5}
+        - {x: 128, y: -75.5}
+        - {x: 128, y: 75.5}
+    - name: NES - Duck Hunt - Backgrounds_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 105
+        width: 256
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 75.5}
+        - {x: -128, y: -75.5}
+        - {x: 128, y: -75.5}
+        - {x: 128, y: 75.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

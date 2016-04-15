@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 30b1c010fc66f4a4d9614f26ea9b492b
+timeCreated: 1460517899
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DuckHuntSpriteSheet1_0
+    21300002: DuckHuntSpriteSheet1_1
+    21300004: DuckHuntSpriteSheet1_2
+    21300006: DuckHuntSpriteSheet1_3
+    21300008: DuckHuntSpriteSheet1_4
+    21300010: DuckHuntSpriteSheet1_5
+    21300012: DuckHuntSpriteSheet1_6
+    21300014: DuckHuntSpriteSheet1_7
+    21300016: DuckHuntSpriteSheet1_8
+    21300018: DuckHuntSpriteSheet1_9
+    21300020: DuckHuntSpriteSheet1_10
+    21300022: DuckHuntSpriteSheet1_11
+    21300024: DuckHuntSpriteSheet1_12
+    21300026: DuckHuntSpriteSheet1_13
+    21300028: DuckHuntSpriteSheet1_14
+    21300030: DuckHuntSpriteSheet1_15
+    21300032: DuckHuntSpriteSheet1_16
+    21300034: DuckHuntSpriteSheet1_17
+    21300036: DuckHuntSpriteSheet1_18
+    21300038: DuckHuntSpriteSheet1_19
+    21300040: DuckHuntSpriteSheet1_20
+    21300042: DuckHuntSpriteSheet1_21
+    21300044: DuckHuntSpriteSheet1_22
+    21300046: DuckHuntSpriteSheet1_23
+    21300048: DuckHuntSpriteSheet1_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DuckHuntSpriteSheet1_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 221
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 17}
+        - {x: -17.5, y: 20}
+        - {x: -27.5, y: 20}
+        - {x: -27.5, y: -20}
+        - {x: 21.5, y: -20}
+        - {x: 27.5, y: -16}
+        - {x: 27.5, y: 2}
+    - name: DuckHuntSpriteSheet1_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 221
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 20}
+        - {x: -26.5, y: 20}
+        - {x: -26.5, y: -20}
+        - {x: 23.5, y: -20}
+        - {x: 26.5, y: -16}
+        - {x: 26.5, y: 3}
+        - {x: 17.5, y: 10}
+    - name: DuckHuntSpriteSheet1_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 220
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -21.5}
+        - {x: 25.5, y: -21.5}
+        - {x: 25.5, y: 6.5}
+        - {x: -3.5, y: 21.5}
+        - {x: -25.5, y: 21.5}
+        - {x: -25.5, y: -16.5}
+        - {x: -24.5, y: -21.5}
+        - {x: -12.5, y: -21.5}
+        - {x: -11.5, y: -20.5}
+        - {x: -11.5, y: -17.5}
+        - {x: -9.5, y: -19.5}
+    - name: DuckHuntSpriteSheet1_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 222
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 3.5}
+        - {x: -11, y: 21.5}
+        - {x: -20, y: 21.5}
+        - {x: -26, y: 11.5}
+        - {x: -26, y: -21.5}
+        - {x: 25, y: -21.5}
+        - {x: 26, y: -18.5}
+        - {x: 26, y: -1.5}
+        - {x: 14, y: 3.5}
+    - name: DuckHuntSpriteSheet1_4
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 221
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 24}
+        - {x: -26.5, y: -24}
+        - {x: 24.5, y: -24}
+        - {x: 26.5, y: -18}
+        - {x: 26.5, y: 24}
+    - name: DuckHuntSpriteSheet1_5
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 219
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 16}
+        - {x: -16.5, y: 7}
+        - {x: -16.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 16}
+    - name: DuckHuntSpriteSheet1_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 181
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DuckHuntSpriteSheet1_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 180
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DuckHuntSpriteSheet1_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 179
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DuckHuntSpriteSheet1_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 179
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DuckHuntSpriteSheet1_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 179
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DuckHuntSpriteSheet1_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 180
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DuckHuntSpriteSheet1_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 138
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DuckHuntSpriteSheet1_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 138
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DuckHuntSpriteSheet1_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 141
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DuckHuntSpriteSheet1_15
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 140
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DuckHuntSpriteSheet1_16
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 140
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DuckHuntSpriteSheet1_17
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 139
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DuckHuntSpriteSheet1_18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 12
+        width: 69
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 4.5}
+        - {x: 25.5, y: 7.5}
+        - {x: 17.5, y: 7.5}
+        - {x: 10.5, y: 4.5}
+        - {x: 5.5, y: -0.5}
+        - {x: 2.5, y: -5.5}
+        - {x: 2.5, y: -11.5}
+        - {x: 2.5, y: -3.5}
+        - {x: 12.5, y: 7.5}
+        - {x: 26.5, y: 19.5}
+        - {x: 26.5, y: 31.5}
+        - {x: 18.5, y: 38.5}
+        - {x: 4.5, y: 39.5}
+        - {x: -3.5, y: 33.5}
+        - {x: -4.5, y: 27.5}
+        - {x: -4.5, y: 23.5}
+        - {x: -4.5, y: 24.5}
+        - {x: -5.5, y: 32.5}
+        - {x: 5.5, y: 41.5}
+        - {x: 8.5, y: 47.5}
+        - {x: -0.5, y: 60.5}
+        - {x: -26.5, y: 60.5}
+        - {x: -34.5, y: 45.5}
+        - {x: -34.5, y: -27.5}
+        - {x: -19.5, y: -60.5}
+        - {x: 2.5, y: -60.5}
+        - {x: 5.5, y: -58.5}
+        - {x: 34.5, y: -21.5}
+        - {x: 34.5, y: -0.5}
+    - name: DuckHuntSpriteSheet1_19
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 11
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DuckHuntSpriteSheet1_20
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 222
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DuckHuntSpriteSheet1_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 179
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DuckHuntSpriteSheet1_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 180
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DuckHuntSpriteSheet1_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 141
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DuckHuntSpriteSheet1_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 139
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
